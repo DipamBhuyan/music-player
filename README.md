@@ -11,7 +11,7 @@ An online music player website built with HTML, CSS and Javascript.
 * The purpose of this project is to play songs online from my own specified playlist.
 * The website have a homepage where 8 songs are listed, from which any one of them can be played.
 ## Demo
-* [Live Deployement](https://dipambhuyan.github.io/mp.github.io/)
+* [Live Deployement](https://dipambhuyan.github.io/music-player/)
 ## Author
 * [Dipam Bhuyan](https://github.com/DipamBhuyan/)
 ## Show your support
